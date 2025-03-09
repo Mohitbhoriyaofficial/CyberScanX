@@ -42,3 +42,5 @@ Usage
   •	Enter the target IP address when prompted.
   •	The tool will run a fast vulnerability scan using Nmap and display the results.
 
+![image](https://github.com/user-attachments/assets/ed7b055b-0dc8-4d9b-9f82-dbfd84549505)
+
